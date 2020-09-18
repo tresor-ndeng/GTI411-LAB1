@@ -91,7 +91,7 @@ class Ui_MainWindow(object):
     def retranslateUi(self, MainWindow):
         _translate = QtCore.QCoreApplication.translate
         MainWindow.setWindowTitle(_translate("MainWindow", "GTI411"))
-        self.lab1_button.setText(_translate("MainWindow", "Lab1_TEST"))
+        self.lab1_button.setText(_translate("MainWindow", "Lab1"))
         self.lab2_button.setText(_translate("MainWindow", "Lab 2"))
         self.lab3_button.setText(_translate("MainWindow", "Lab 3"))
         self.lab4_button.setText(_translate("MainWindow", "Lab 4"))
